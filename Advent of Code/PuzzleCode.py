@@ -5,7 +5,7 @@ Puzzle2Text = open("Puzzle2Text.txt","r")
 Puzzle3Text = open("Puzzle3Text.txt","r")
 Puzzle4Text = open("Puzzle4Text.txt","r")
 
-
+hello
 def Puzzle1(a_file):
     x = []
     answer1 = 0
